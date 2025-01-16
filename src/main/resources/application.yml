@@ -1,0 +1,10 @@
+spring.application.name: code-challenge-scotiabank-v1
+
+application:
+  api:
+    path: /srv/v1/colegios/aulas
+    version: v1
+    description:
+
+server:
+  port: 8085
